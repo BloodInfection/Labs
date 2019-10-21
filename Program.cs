@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main()
         {
+
+            Console.Title = ("Анастасия Филатова ИУ5-35Б");
             Console.WriteLine("Биквадратное уравнение: a*x^4+b*x^2+c=0");
             Console.WriteLine("Введите a, b, c: ");
 
