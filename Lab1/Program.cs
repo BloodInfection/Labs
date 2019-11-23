@@ -35,7 +35,9 @@ namespace ConsoleApp1
                 string str_a = Console.ReadLine();
                 while (!double.TryParse(str_a, out num))
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine($"Неверный тип данных, повторите ввод:");
+                    Console.ResetColor();
                     str_a = Console.ReadLine();
                 }
                 a = double.Parse(str_a); // ввели а
@@ -45,7 +47,9 @@ namespace ConsoleApp1
                 string str_b = Console.ReadLine();
                 while (!double.TryParse(str_b, out num))
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine($"Неверный тип данных, повторите ввод:");
+                    Console.ResetColor();
                     str_b = Console.ReadLine();
                 }
                 b = double.Parse(str_b); // ввели b
@@ -56,7 +60,9 @@ namespace ConsoleApp1
                 string str_c = Console.ReadLine();
                 while (!double.TryParse(str_c, out num))
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine($"Неверный тип данных, повторите ввод:");
+                    Console.ResetColor();
                     str_c = Console.ReadLine();
                 }
                  c = double.Parse(str_c); // ввели c
