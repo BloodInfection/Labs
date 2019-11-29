@@ -27,7 +27,8 @@ namespace ConsoleApp1
                 b = Double.Parse(args[1]);
                 c = Double.Parse(args[2]);
 
-            } else
+            }
+            else
             {
                 double num;
 
@@ -65,14 +66,14 @@ namespace ConsoleApp1
                     Console.ResetColor();
                     str_c = Console.ReadLine();
                 }
-                 c = double.Parse(str_c); // ввели c
+                c = double.Parse(str_c); // ввели c
 
 
 
 
             }
 
-            
+
             Console.WriteLine($"Ваши числа: {a},{b},{c}.");
 
             if (a == 0)
@@ -187,7 +188,6 @@ namespace ConsoleApp1
         }
     }
 }
-
 
 
 
