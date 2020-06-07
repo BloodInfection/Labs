@@ -1,0 +1,23 @@
+﻿  HOMEWORK.cpp
+c:\users\enin\source\repos\homework\homework\homework.cpp(30): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\enin\source\repos\homework\homework\homework.cpp(35): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(63): warning C4305: +=: усечение из "double" в "float"
+c:\users\enin\source\repos\homework\homework\homework.cpp(64): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(65): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(81): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(85): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(86): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(98): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(99): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(100): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(101): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(110): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(111): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(112): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(113): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(114): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\enin\source\repos\homework\homework\homework.cpp(199): warning C4305: +=: усечение из "double" в "float"
+c:\users\enin\source\repos\homework\homework\homework.cpp(209): warning C4305: -=: усечение из "double" в "float"
+  HOMEWORK.vcxproj -> C:\Users\Enin\source\repos\Homework\Debug\HOMEWORK.exe
